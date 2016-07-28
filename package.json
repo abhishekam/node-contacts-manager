@@ -1,0 +1,11 @@
+{
+  "name": "node-contacts-manager",
+  "version": "1.0.0",
+  "description": "A Contact Manager written in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishekam N Swamy",
+  "license": "ISC"
+}
